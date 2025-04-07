@@ -1,10 +1,6 @@
 # Virtual environment
 .venv/
 
-# Model and tokenizer files
-email_classifier.h5
-tokenizer.pkl
-
 # Python cache and compiled files
 __pycache__/
 *.pyc
@@ -14,10 +10,4 @@ __pycache__/
 # Jupyter Notebook checkpoints
 .ipynb_checkpoints/
 
-# Logs and temporary files
-*.log
-*.csv
-*.json
-*.db
-.DS_Store
 
